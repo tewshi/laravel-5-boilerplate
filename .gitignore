@@ -28,3 +28,6 @@ output.txt
 coverage.xml
 /coverage
 .phpunit.result.cache
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
